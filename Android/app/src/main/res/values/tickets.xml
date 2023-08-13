@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ticketNames">
+        <item>Pojedinačna ulaznica</item>
+        <item>Grupna ulaznica</item>
+        <item>Promo paket za parove</item>
+        <item>Januar promo</item>
+        <item>Novogodišnja promocija</item>
+    </string-array>
+    <string-array name="ticketDescriptions">
+        <item>Pojedinačna ulaznica važi za odabrani datum i može je iskoristiti jedna osoba. Nakon kupovine, datum se ne može menjati. </item>
+        <item>Grupna ulaznica važi za odabrani datum i može je iskoristiti odabrani broj ljudi (5, 10, 15, 20+).</item>
+        <item>Za sve parove koji  žele da posete naš zoo vrt ovog meseca.</item>
+        <item>U januaru smo pripremili iznenađenje za vas - možete kupiti ulaznicu za ceo mesec i ući neograničen broj puta! </item>
+        <item>U prvoj nedelji Nove godine, od 1. do 7. januara, možete besplatno posetiti naš zoo vrt! Požurite jer je broj mesta ograničen!</item>
+    </string-array>
+    <string-array name="ticketPrices">
+        <item>300 RSD</item>
+        <item>200 RSD</item>
+        <item>450 RSD</item>
+        <item>1000 RSD</item>
+        <item>besplatno</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="commentUsers">
+        <item>Panda</item>
+        <item>Crvena panda</item>
+        <item>Lav</item>
+        <item>Tigar</item>
+        <item>Leopard</item>
+        <item>Lemur</item>
+        <item>Lenjivac</item>
+        <item>Zebra</item>
+        <item>Panda</item>
+        <item>Crvena panda</item>
+    </string-array>
+    <string-array name="commentTexts">
+        <item>Panda</item>
+        <item>Crvena panda</item>
+        <item>Lav</item>
+        <item>Tigar</item>
+        <item>Leopard</item>
+        <item>Lemur</item>
+        <item>Lenjivac</item>
+        <item>Zebra</item>
+        <item>Soko</item>
+        <item>Sova</item>
+    </string-array>
+    <string-array name="commentAnimals">
+        <item>Panda</item>
+        <item>Crvena panda</item>
+        <item>Lav</item>
+        <item>Tigar</item>
+        <item>Leopard</item>
+        <item>Lemur</item>
+        <item>Lenjivac</item>
+        <item>Zebra</item>
+        <item>Soko</item>
+        <item>Sova</item>
+    </string-array>
+</resources>

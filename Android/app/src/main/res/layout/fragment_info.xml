@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".InfoFragment">
+
+    <TextView
+        android:id="@+id/textWelcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:layout_marginTop="-50dp"
+        android:layout_marginBottom="50dp"
+        android:textSize="18dp"
+        android:text="Dobrodošli u zoološki vrt Pandica!" />
+
+    <LinearLayout
+        app:layout_constraintVertical_bias="1"
+        android:id="@+id/layoutInfo"
+        android:layout_width="300dp"
+        android:layout_height="350dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@drawable/shape" >
+
+        <TextView
+            android:id="@+id/labelWorkingHours"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            style="@style/smallOrangeText"
+            android:text="Radno vreme"/>
+
+        <TextView
+            android:id="@+id/textWorkingHours"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            style="@style/smallWhiteText"
+            android:text="svaki radni dan \n 10:00 - 18:00"/>
+
+        <ImageView
+            android:id="@+id/iconLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_baseline_location_on_24"
+            />
+
+        <TextView
+            android:id="@+id/textLocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            style="@style/smallWhiteText"
+            android:text="Mali Kalemegdan 8"/>
+
+        <ImageView
+            android:id="@+id/iconPhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_baseline_phone_24" />
+
+        <TextView
+            android:id="@+id/textPhone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            style="@style/smallWhiteText"
+
+            android:text="011 / 123 - 456"/>
+
+        <ImageView
+            android:id="@+id/iconEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_baseline_alternate_email_24"/>
+
+        <TextView
+            android:id="@+id/textEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            style="@style/smallWhiteText"
+            android:text="zoopandica@zoo.rs"/>
+    </LinearLayout>
+
+</LinearLayout>

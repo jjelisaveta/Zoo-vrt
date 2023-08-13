@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/infoFragment">
+
+    <fragment
+        android:id="@+id/infoFragment"
+        android:name="rs.ac.bg.etf.pki.zoopandica.InfoFragment"
+        android:label="fragment_info"
+        tools:layout="@layout/fragment_info" /><action android:id="@+id/action_global_infoFragment" app:destination="@id/infoFragment"/>
+    <fragment
+        android:id="@+id/changePersonalDataFragment"
+        android:name="rs.ac.bg.etf.pki.zoopandica.update_user.ChangePersonalDataFragment"
+        android:label="fragment_change_personal_data"
+        tools:layout="@layout/fragment_change_personal_data" />
+    <action android:id="@+id/action_global_changePersonalDataFragment" app:destination="@id/changePersonalDataFragment" />
+    <fragment
+        android:id="@+id/animalDetailsFragment"
+        android:name="rs.ac.bg.etf.pki.zoopandica.animals.AnimalDetailsFragment"
+        android:label="fragment_animal_details"
+        tools:layout="@layout/fragment_animal_details" />
+    <action android:id="@+id/action_global_animalDetailsFragment" app:destination="@id/animalDetailsFragment" />
+    <fragment
+        android:id="@+id/animalsFragment"
+        android:name="rs.ac.bg.etf.pki.zoopandica.animals.AnimalsFragment"
+        android:label="fragment_animals"
+        tools:layout="@layout/fragment_animals" />
+    <action android:id="@+id/action_global_animalsFragment" app:destination="@id/animalsFragment" />
+    <fragment
+        android:id="@+id/changePasswordFragment"
+        android:name="rs.ac.bg.etf.pki.zoopandica.update_user.ChangePasswordFragment"
+        android:label="fragment_change_password"
+        tools:layout="@layout/fragment_change_password" />
+    <fragment
+        android:id="@+id/eventsFragment"
+        android:name="rs.ac.bg.etf.pki.zoopandica.events.EventsFragment"
+        android:label="fragment_events"
+        tools:layout="@layout/fragment_events" />
+    <fragment
+        android:id="@+id/notificationsFragment"
+        android:name="rs.ac.bg.etf.pki.zoopandica.NotificationsFragment"
+        android:label="fragment_notifications"
+        tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/ticketsFragment"
+        android:name="rs.ac.bg.etf.pki.zoopandica.tickets.TicketsFragment"
+        android:label="fragment_tickets"
+        tools:layout="@layout/fragment_tickets" />
+    <action android:id="@+id/action_global_changePasswordFragment" app:destination="@id/changePasswordFragment" />
+    <action android:id="@+id/action_global_eventsFragment" app:destination="@id/eventsFragment" />
+    <action android:id="@+id/action_global_notificationsFragment" app:destination="@id/notificationsFragment" />
+    <action android:id="@+id/action_global_ticketsFragment" app:destination="@id/ticketsFragment" />
+</navigation>

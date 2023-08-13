@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animalNames">
+        <item>Panda</item>
+        <item>Crvena panda</item>
+        <item>Lav</item>
+        <item>Tigar</item>
+        <item>Leopard</item>
+        <item>Lemur</item>
+        <item>Lenjivac</item>
+        <item>Zebra</item>
+        <item>Soko</item>
+        <item>Sova</item>
+    </string-array>
+    <string-array name="animalImages">
+        <item>panda</item>
+        <item>crvenapanda</item>
+        <item>lav</item>
+        <item>tiger</item>
+        <item>leopard</item>
+        <item>lemur</item>
+        <item>lenjivac</item>
+        <item>zebra</item>
+        <item>soko</item>
+        <item>sova</item>
+    </string-array>
+    <string-array name="animalDescriptions">
+        <item>Velika panda ili džinovska panda (Ailuropoda melanoleuca) je krupni sisar iz porodice medveda (Ursidae), poreklom iz centralno-zapadne i jugozapadne Kine. Lako se prepoznaje po upadljivim crnim oznakama oko očiju, na ušima i preko svog zaobljenog tela. Iako pripada redu zveri, koje karakteriše ishrana mesom, džinovska panda se u 99% slučajeva hrani mladicama i listovima bambusa.
+Ugrožena je životinja - procenjeno je da je u divljini preostalo 2.000 pandi i preko 180 koje žive u zatočeništvu u Kini. Od ovog broja dvadeset pandi živi van Kine. Drugi izvor pokazuje da se u Kini razmnožava 221 panda, od kraja 2006. godine. Broj panda u divljini je u porastu.</item>
+        <item>Crvena ili mala panda (lat. Ailurus fulgens) je uglavnom biljojedni sisar, neznatno veći od domaće mačke, dužine oko 56 centimetara. Crvena panda nastanjuje Himalaje u Nepalu i južnoj Kini.
+Obe vrste pandi imaju slične osobine i medveda i rakuna. Njihov zajednički predak vodi poreklo od pre 10 miliona godina i nastanjivao je oblasti širom Evroazije. Fosili crvene pande su iskopani na mestima od Kine na istoku do Ujedinjenog Kraljevstva na zapadu i u skorije vreme su pronađeni u Severnoj Americi.
+Crvena panda je klasifikovana u ugrožene sisare. Populacija se procenjuje na manje od 2.500 odraslih jedinki, a ovaj broj kontinuirano opada usled odvojenih i usamljenih populacija.</item>
+        <item>Lav (Panthera leo) je veliki sisar iz porodice mačaka (Felidae) i jedna od „velikih mačaka“ roda pantera (Panthera). Mužjak lava, lako prepoznatljiv po svojoj grivi, u proseku teži između 180-255 kilograma. Ženke su manje i teže od 110-155 kilograma. U divljini, lavovi žive oko 10-18 godina, dok u zatočeništvu preko 20 godina. Nekada su živeli širom Afrike, Azije i Evrope, dok se danas u divljini mogu naći samo u Africi i Indiji. Žive u savanama i love u čoporu.</item>
+        <item>Tigar (lat. Panthera tigris) je sisar iz porodice mačaka (Felidae) i jedan od četiri vrste „velikih mačaka“ roda pantera (Panthera). On je vrhunski predator i najveća živa mačka na svetu. U brojnim istorijskim mitovima istočnjačkih zemalja tigar je kralj svih zveri. Bengalski tigar je najpoznatija podvrsta i sačinjava približno 80% ukupne populacije tigrova. Živi u Bangladešu, Butanu, Mjanmaru, Nepalu i Indiji. Kao ugrožene vrste, većina svetskih tigrova danas živi u zatočeništvu ljudi.</item>
+        <item>Leopard (lat. Panthera pardus) je životinja iz porodice mačaka i najmanja od četiri velike mačke iz roda Panthera (ostale su tigar, lav i jaguar). Leopardi su nekada živeli u Aziji i Africi, od Koreje do južne Afrike, ali se njihova raspodela dramatično smanjila zbog lova i gubitka staništa, tako da leopardi sada uglavnom žive u potsaharskoj Africi. Izolovane populacije žive u Pakistanu, Indiji, Indokini, Maleziji i Kini. Zbog gubitka staništa i stalnog opadanja populacije, leopardi su svrstani u ugrožene vrste; njihov broj je veći od drugih pripadnika roda Panthera.
+Leopard ima relativno kratke noge i dugačko telo, sa velikom lobanjom. Fizički najviše podseća na jaguara, iako je manji i slabije građe. Njegovo krzno je označeno rozetama koje nemaju unutrašnje tačke, za razliku od jaguara. Leopardi koji su melanistični, bilo potpuno crni ili vrlo tamne boje krzna, se kolokvijalno nazivaju crni panteri.</item>
+        <item>Lemur je sisar koji pripada redu primata s izduženom njuškom i krupnim očima koje su smeštene sa strane. Njihov nokat na drugom prstu zadnjih nogu je u obliku kandže dok su svi ostali ravni. Svi lemuri se spretno pužu i veru po drveću, pa su zato i nazvani verači. Pošto ne žive dugo kada su zatvoreni, ne mogu se naći često po zoološkim vrtovima. Hrane se voćem, insektima, a ponekad i sitnim pticama i gmizavcima. Pored čoveka, najveći neprijatelji su im orlovi.
+Ove noćne životinje žive u prašumama Madagaskara, Africi i ponegde u Aziji, iako su se neki prilagodili otvorenijim i sušnim zapadnim delovima ostrva. Nekada su živeli i u Evropi i Americi, gde su pronađeni njihovi fosilni ostaci.
+Od svih drugih antropoidnih ili čovekolikih majmuna, lemur se razlikuje po tome što ima izduženo lice lisičjeg izgleda i izduženu kandžu umesto nokta na drugom nožnom prstu.</item>
+        <item>Lenjivci (Folivora) su podred reda krezubice (Pilosa), u kome se nalaze zajedno sa podredom mravojedi (Vermilingua). Lenjivci su sisari poznati po svom usporenom kretanju i po tome što provode najveći deo svog života viseći naglavačke na drveću tropskih kišnih šuma Južne i Centralne Amerike. Danas postoji šest živućih vrsta lenjivaca, a to su patuljasti troprsti lenjivac, smeđogrli troprsti lenjivac, troprsti lenjivac, grivasti troprsti lenjivac, Hofmanov dvoprsti lenjivac i Lineov dvoprsti lenjivac. Ove vrste su grupisane u dve porodice: dvoprsti lenjivci i troprsti lenjivci. Uprkos ovog tradicionalnog imenovanja, svi lenjivci zapravo imaju tri prsta na nogama, ipak razlika postoji u broju prstiju na rukama, dvoprsti lenjivci imaju po dva prsta, dok ih troprsti imaju tri.</item>
+        <item>Zebra (Hippotigris) je životinja koja pripada porodici Equidae (porodici konja) i koja živi u centralnoj i južnoj Africi. Divlja zebra je visine leđa oko metar i dvadeset pet, ponekad i do metar i po, a dugačka gotovo dva metra. Odrasle zebre teže do 300 kg i uglavnom se nalaze u savani i retkim šumama. Dlaka je išarana crno-belim poprečnim prugama. Taj neobični plašt pomaže joj da bude nezapažena u savani gde je zbog jakih sunčevih zraka kontrast svetlih i senovitih zona naročito naglašen. Glava je prilično krupna, vrat kratak i mišićav, a trup snažan. Ima odlična čula vida, mirisa i sluha. Rep se završava dugačkim čuperkom dlake. Svojim izrazito čvrstim, punim kopitama, zebra lako trči po kamenitom tlu. U punom trku postiže brzinu od sedamdeset kilometara na sat. Ako je napadne neka zver, brani se snažnim udarcima kopita i zubima i često natera u bekstvo napadača, pogotovo ako je ovaj sam, a nije naročito krupan. Zebru love lavovi i pegava hijena.</item>
+        <item>Soko (lat. Falco) je rod ptica grabljivica, koji naseljava sve kontinente izuzev Antarktika. Rod obuhvata oko 40 vrsta, tradicionalno podeljenih u nekoliko podrodova. Poznatiji pripadnici ovog roda su sivi soko, vetruška, stepski soko i soko lastavičar. Sokoli su najveći rod u potporodici Falconinae porodice Falconidae, koja sama po sebi uključuje još jednu potporodicu koju čine karakare i nekoliko drugih vrsta. Sve ove ptice ubijaju svojim kljunovima, koristeći „zub“ na strani kljunova — za razliku od jastreba, orlova i drugih ptica grabljivica u porodici Accipitridae, koje koriste svoje noge.</item>
+        <item>Sove ili noćne grabljivice (lat. Strigiformes) predstavljaju red uglavnom usamljenih ptica grabljivica u koji se danas ubraja oko 250 vrsta. Love plen uglavnom noću u čemu im pomaže pretežno siva boja i skoro nečujan let. Dele se u dve savremene familije prave sove (Strigidae) i kukuvije (Tytonidae). Uglavnom se hrane sitnim sisarima, pticama i insektima, a pojedine vrste se hrane i ribom. Žive na svim kontinentima osim na Antarktiku, velikom delu Grenlanda i pojedinim ostrvima.</item>
+    </string-array>
+</resources>

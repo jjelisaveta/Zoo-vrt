@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeItem"
+        app:showAsAction="never"
+
+        android:title="Početna" />
+
+    <item
+        android:id="@+id/notificationsItem"
+        app:showAsAction="never"
+        android:title="Obaveštenja" />
+
+    <item
+        android:id="@+id/ticketsItem"
+        app:showAsAction="never"
+        android:title="Ulaznice" />
+
+    <item
+        android:id="@+id/eventsItem"
+        app:showAsAction="never"
+        android:title="Dešavanja" />
+
+    <item
+        android:id="@+id/animalsItem"
+        app:showAsAction="never"
+        android:title="Životinje" />
+
+    <item
+        android:id="@+id/profileItem"
+        app:showAsAction="never"
+        android:title="Moj profil">
+        <menu >
+            <item
+                android:id="@+id/changeDataItem"
+                android:title="Promena ličnih podataka" />
+
+            <item
+                android:id="@+id/changePasswordItem"
+                android:title="Promena lozinke" />
+
+            <item
+                android:id="@+id/logoutItem"
+                android:title="Odjavi se" />
+        </menu>
+
+    </item>
+
+</menu>

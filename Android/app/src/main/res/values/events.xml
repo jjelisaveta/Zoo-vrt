@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eventTitles">
+        <item>Zimski vašar</item>
+        <item>Dani pčelarstva</item>
+        <item>Humanitarni vašar</item>
+        <item>Dan društvenih igara</item>
+        <item>Mesečna gratis tura</item>
+    </string-array>
+    <string-array name="eventImages">
+        <item>zimski</item>
+        <item>d</item>
+        <item>vasar</item>
+        <item>wingspan</item>
+        <item>lav</item>
+    </string-array>
+    <string-array name="eventDescriptions">
+        <item>Uživajte u zimskim čarolijama u decembru! Čekaju najzanimljiviji sadržaji: klizalište, poučne predstave za decu, kao i novogodišnji vašar. Sadržaji su organizovani tako da podignu svest o ugroženim vrstama.</item>
+        <item>Ove godine, kao i prethodnih, održava se tradicionalni festival pčelarstva “Dani pčelarstva”. Isprobajte najbolje proizvode od naših pčela.</item>
+        <item>U decembru se održava humanitarni vašar. Možete naći najrazličitije proizvode za svakoga - odeću, igračke, ukrase. Prikupljena sredstva će biti donirana azilu za napuštene životinje.</item>
+        <item>Dan društvenih igara održaće se 20. decembra! Od 12:00 do 18:00 možete učestvovati u timskim ili individualnim igrama. Spremili smo i sadržaj za najmlađe. Najnovija igra u našoj kolekciji je “Wingspan”, u kojoj možete upoznati najzanimljivije vrste ptica.</item>
+        <item>Kao i svakog meseca, organizuje se gratis tura za sve posetioce zoo vrta. Ovog meseca, specijalizovana tura se odnosi na velike mačke. Svakog radnog dana, u tri termina (10:00, 12:00 i 14:00) možete čuti našeg vodiča i stručnjake iz ove oblasti.</item>
+    </string-array>
+    <integer-array name="eventLikes">
+        <item>45</item>
+        <item>52</item>
+        <item>91</item>
+        <item>54</item>
+        <item>19</item>
+    </integer-array>
+</resources>

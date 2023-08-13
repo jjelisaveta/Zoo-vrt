@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZooPandica</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_register_label">Nemate nalog? Registrujte se ovde.</string>
+    <string name="button_login_label">Uloguj se</string>
+    <string name="login_password_label">Lozinka</string>
+    <string name="login_username_label">Korisničko ime</string>
+    <string name="label_firstname">Ime</string>
+    <string name="label_lastname">Prezime</string>
+    <string name="label_phone">Telefon</string>
+    <string name="label_address">Adresa</string>
+    <string name="label_username">Korisničko ime</string>
+</resources>
